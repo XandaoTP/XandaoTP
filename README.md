@@ -1,5 +1,5 @@
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XandaoTP&layout=compact&langs_count=14&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XandaoTP&layout=compact&langs_count=16&theme=radical)
 
 
 <!--
